@@ -28,3 +28,4 @@ My first milestone was finishing the assembly of the robotic arm and setting up 
 My starter project was the Simon Says game, a memory game where you copy series' of flashing lights using buttons. It's comprised of four buttons with LED lights underneath, a buzzer for sound, and a micro controller that runs the game. There are two switches, one to control the power and one to enable or disable the sound buzzer. All the parts are soldered to a board. 
 
 [![Starter Project](https://i3.ytimg.com/vi/HAckeBsume0/maxresdefault.jpg)](https://www.youtube.com/watch?v=HAckeBsume0&ab_channel=BlueStampEng)
+![simon says](https://cdn.sparkfun.com//assets/parts/5/1/5/0/SparkFun_Simon_Says_-_Through-Hole_Soldering_Kit-03.jpg)
