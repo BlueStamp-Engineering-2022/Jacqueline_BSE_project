@@ -19,13 +19,12 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 # First Milestone
   
-
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was finishing the assembly of the robotic arm and setting up the joystick controls. Assembling the frame of the arm was my first step, and after that I began attaching the servo motors to the joints of the arm and wiring them to the Arduino. Because the servos only have a range of 180 degrees, I had to be careful attaching them at the right angle to cover all the range of motion the arm needed. I used a short program to set every servo to 0 degrees, then attached them to the arm in the positions required. The code for the joystick assigns each x and y axis of the left and right joysticks to a different servo motor. Pushing the joystick returns a value from 0 to 1024, and the script works by reading this value, and when it exceeds or is below a certain value, it will call the servos to move the arm. 
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
-# Starter Project: Simon Says Game
+# Starter Project
   
-The Simon Says game is a memory game where you copy series of flashing lights using buttons. It's comprised of four buttons with LED lights underneath, a buzzer for sound, and a micro controller that runs the game. There are two switches, one to control the power and one to enable or disable the sound buzzer. 
+My starter project was the Simon Says game, a memory game where you copy series' of flashing lights using buttons. It's comprised of four buttons with LED lights underneath, a buzzer for sound, and a micro controller that runs the game. There are two switches, one to control the power and one to enable or disable the sound buzzer. All the parts are soldered to a board. 
 
 [![Starter Project](https://i3.ytimg.com/vi/HAckeBsume0/maxresdefault.jpg)](https://www.youtube.com/watch?v=HAckeBsume0&ab_channel=BlueStampEng)
