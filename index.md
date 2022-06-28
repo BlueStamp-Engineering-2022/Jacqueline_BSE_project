@@ -21,7 +21,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
   
 My first milestone was finishing the assembly of the robotic arm and setting up the joystick controls. Assembling the frame of the arm was my first step, and after that I began attaching the servo motors to the joints of the arm and wiring them to the Arduino. Because the servos only have a range of 180 degrees, I had to be careful attaching them at the right angle to cover all the range of motion the arm needed. I used a short program to set every servo to 0 degrees, then attached them to the arm in the positions required. The code for the joystick assigns each x and y axis of the left and right joysticks to a different servo motor. Pushing the joystick returns a value from 0 to 1024, and the script works by reading this value, and when it exceeds or is below a certain value, it will call the servos to move the arm. 
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://i3.ytimg.com/vi/Qqwz8_yHCeY/maxresdefault.jpg)](https://www.youtube.com/watch?v=Qqwz8_yHCeY&ab_channel=BlueStampEng "First Milestone"){:target="_blank" rel="noopener"}
 
 # Starter Project
   
