@@ -1,5 +1,5 @@
-﻿# 4 Joint Robotic Arm
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Modified 5 Joint Robotic Arm
+This robotic arm is a modified version of the 4 joint robotic arm. It's uses 5 servos to move each joint of the arm, and can be controlled using a joystick or by bluetooth using an android phone app. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -7,13 +7,8 @@ This will serve as a brief description of your project. Limit this to three sent
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLWvRZPySKtNMw2l8cFQgy0hguL3NRoTFVlV7KkOgYxTWD3nOlJwgJsVo3F3tkhdnyeY9Ajf88zYGMP5llmJCRMDiq_inE7K75EN8vGzypXLCgeLmKIJpN6nrvHO3c4rvDGbwAylgRGtgEn-LO_HIu4=s943-no?authuser=0)
 
-# Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
-
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
-
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second final milestone was getting the bluetooth module and app set up to control the arm and adding a fifth joint to the arm. Setting up the module just required me to plug it into the right ports on the arduino, and after downloading the app and connecting it, almost everything worked the way it was supposed to. All I needed to change was the range of the servos in the code. After that was working smoothly, I began planning my modification to the arm. I decided I wanted to add a fifth joint where the claw was so it was able to flip over, so I used Onshape to make a 3D model of the existing pieces. I then used it to design a couple new pieces that I would need to make the modification work, and used a 3D printer to print them out. Because 3D printing isn't very precise, it took a couple tries and changes to the design to print pieces that fit. After everything was printed, I got a fifth servo and assembled everything together. To allow this servo to be controlled by the joystick, I had to add code to the program. Since the x and y axes of both joysticks were already being used, I chose to assign the flipping motion to the joystick buttons instead.
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 
