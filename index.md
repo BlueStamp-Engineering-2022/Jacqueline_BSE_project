@@ -12,7 +12,7 @@ My second final milestone was getting the bluetooth module and app set up to con
 
 ![CAD file](https://github.com/BlueStamp-Engineering-2022/Jacqueline_BSE_project/blob/gh-pages/Assembly%201%20Drawing%201.png?raw=true)
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone](https://img.youtube.com/vi/bG9p_Jvv62I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bG9p_Jvv62I&ab_channel=BlueStampEng)
 
 # First Milestone
   
