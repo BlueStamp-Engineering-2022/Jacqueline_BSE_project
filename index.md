@@ -3,7 +3,7 @@ This robotic arm is a modified version of the 4 joint robotic arm. It's uses 5 s
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Jacqueline Li | Palo Alto High School | Mechanical Engineering | Incoming Junior
+| Jacqueline | Palo Alto High School | Mechanical Engineering | Incoming Junior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLWvRZPySKtNMw2l8cFQgy0hguL3NRoTFVlV7KkOgYxTWD3nOlJwgJsVo3F3tkhdnyeY9Ajf88zYGMP5llmJCRMDiq_inE7K75EN8vGzypXLCgeLmKIJpN6nrvHO3c4rvDGbwAylgRGtgEn-LO_HIu4=s943-no?authuser=0)
 
